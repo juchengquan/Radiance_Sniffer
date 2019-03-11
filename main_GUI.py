@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-
+Last updated on: 20190311
+@author: cqju
 """
 #GUI related
 import tkinter as tk
