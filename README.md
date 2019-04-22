@@ -6,5 +6,10 @@ This is a small tool to sniff the minute-scale solar irradiance map of Singapore
 
 **IMPORTANT**: Make sure you have enough storage on the drive. 
 
-Usage:
+**Usage**:
+
+##### Python:
+
 - run "main_GUI.py" or compile it with "RadianceSniffer.py". 
+##### Golang:
+- run "main.go".
